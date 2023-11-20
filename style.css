@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Encode+Sans&family=Fira+Code&family=Fuggles&family=Gabarito&family=Montserrat:ital,wght@1,600&family=Mooli&family=Pixelify+Sans:wght@500&family=Poppins:wght@300&family=Titillium+Web&family=Ubuntu:ital,wght@1,500&display=swap');
+
+.body-page {
+    height: 100vh;
+    background-image:url(/images/Landing\ Page.png)
+ }
+ .mass-anchor {
+    color: white;
+    font-family: 'Poppins', sans-serif;    
+}
+
+.mass-anchor:hover {
+    color: chartreuse;
+}
+
+.anchor {
+    margin-left: auto;
+}
+.nav-logo{
+    height: 70px;
+}
+.mass-nihar-para {
+    font-family: 'Gabarito', cursive;
+    font-size: 20px;
+}
+.left-body {
+    padding-left: 100px !important;
+    color: white;
+    padding-top: 40px !important;
+}
+
+.body-section {
+    padding-top: 100px;
+    text-align: center;
+    height: 80vh;
+}
+
+.img-fluid{
+    width: 500px;
+    border-radius: 250px;
+    height:auto;
+}
